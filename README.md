@@ -8,3 +8,9 @@ All you need to do is run screenshotplaying.py and play the game.. choose one pl
 Then train the vgg19 model on the folder which has the two folders; "losing" and "winning".
 
 Then you can train the neat algorithm.. I already provided a few hotkeys and mouse clicks and movements, as output.
+
+
+****** Added neat_config file
+
+I have a neat config file that is specifically made for this project.. it has the right amount of outputs and inputs, and all the other regulations is just standard as provided by chatgpt.
+
